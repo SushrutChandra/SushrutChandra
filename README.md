@@ -18,9 +18,9 @@
 
 ## 🚀 Notable Projects
 
-- **Compliance Demo:** Integrated OpenAI in Python for compliance use cases  
 - **Blackjack Game:** Modular, object-oriented Java implementation  
 - **Hosting Automation Platform:** Led as Capstone Tech Lead  
+- **Compliance Demo:** Integrated OpenAI in Python for compliance use cases  
 
 ---
 
