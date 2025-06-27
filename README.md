@@ -29,6 +29,7 @@
 - Email: [sushrutchandra29@gmail.com](mailto:sushrutchandra29@gmail.com)
 - [LinkedIn](https://linkedin.com/in/sushrut--chandra)
 
-<!--
-⭐️ Love to travel and have visited 14 countries and 27 U.S states/ territories!
--->
+---   
+
+## ⭐️ Fun Fact
+- Love to travel and have visited 14 countries and 27 U.S states/ territories!
