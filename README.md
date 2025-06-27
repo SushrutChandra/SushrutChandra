@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sushrut Chandra
 
-🎓 Computer Engineering graduate from the Clark School of Engineering, University of Maryland  
+🎓 Computer Engineering graduate from the Clark School of Engineering at the University of Maryland  
 💻 Software Engineer with strong Java and Kotlin skills  
 📱 Currently building Android & backend apps leveraging the Android SDK  
 🧠 Built a compliance demo using OpenAI integrations in Python  
@@ -30,5 +30,5 @@
 - [LinkedIn](https://linkedin.com/in/sushrut--chandra)
 
 <!--
-⭐️ Fun fact, GitHub stats, or visitor badge? Let me know if you’d like to add more!
+⭐️ Love to travel and have visited 14 countries and 27 U.S states/ territories!
 -->
