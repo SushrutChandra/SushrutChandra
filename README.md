@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Sushrut Chandra
+
+🎓 Computer Engineering graduate from the Clark School of Engineering, University of Maryland  
+💻 Software Engineer with strong Java and Kotlin skills  
+📱 Currently building Android & backend apps leveraging the Android SDK  
+🧠 Built a compliance demo using OpenAI integrations in Python  
+🎮 Developed several Java, C, and Python projects, including a modular Java-based Blackjack game  
+🧑‍💻 Capstone Tech Lead: Led the development of a hosting automation platform  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java · Kotlin · Python · C · SQL · Verilog  
+- **Frameworks/Tools:** Android SDK · Git · PowerShell  
+
+---
+
+## 🚀 Notable Projects
+
+- **Compliance Demo:** Integrated OpenAI in Python for compliance use cases  
+- **Blackjack Game:** Modular, object-oriented Java implementation  
+- **Hosting Automation Platform:** Led as Capstone Tech Lead  
+
+---
+
+## 📬 Reach Me
+
+- Email: [sushrutchandra29@gmail.com](mailto:sushrutchandra29@gmail.com)
+- [LinkedIn](https://linkedin.com/in/sushrut--chandra)
 
 <!--
-**SushrutChandra/SushrutChandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⭐️ Fun fact, GitHub stats, or visitor badge? Let me know if you’d like to add more!
 -->
